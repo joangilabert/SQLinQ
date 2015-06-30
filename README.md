@@ -3,9 +3,9 @@
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
-[Web Proyect] (http://sqlinq.codeplex.com/)
+[Original Web Proyect] (http://sqlinq.codeplex.com/)
 
-[Documentation] (http://sqlinq.codeplex.com/documentation)
+[Original Web Proyect Documentation] (http://sqlinq.codeplex.com/documentation)
 
 [Tutorial] (http://pietschsoft.com/post/2012/03/24/SQLinq-Use-LINQ-to-generate-Ad-Hoc-strongly-typed-SQL-queries)
 
