@@ -3,6 +3,7 @@
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
+[Tutorial](http://pietschsoft.com/post/2012/03/24/SQLinq-Use-LINQ-to-generate-Ad-Hoc-strongly-typed-SQL-queries)
 
 * Quick summary
 * Version
